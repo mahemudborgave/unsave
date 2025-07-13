@@ -36,11 +36,9 @@ Day Code serves as a centralized hub for competitive programmers and developers 
 - **Real-time Updates**: Get the most current contest schedules using platform APIs
 - **Contest Filtering**: Sort and filter contests by platform, date, duration, and type
 
-## 🔗 Live Demo & Resources
+## 🔗 Resources
 
-- **Demo Video**: [Watch the project demo](https://www.linkedin.com/posts/samrath-reddy_attention-coders-whether-youre-a-dsa-activity-7307755723109580800-0b-H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2VzSEBqolc3AY61MDI9xdX1-_3h_Dtyb0)
-- **Repository**: [Checkout the code](https://github.com/samrathreddy/Daycode)
-- **Developer**: [Samrath Reddy](https://www.linkedin.com/in/samrath-reddy/)
+- **Repository**: [Checkout the code](https://github.com/mahemudborgave/unsave)
 
 ## 🚀 Getting Started
 
@@ -56,8 +54,8 @@ Before installing the application, make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/samrathreddy/Coding-Contest-Tracker.git
-   cd Coding-Contest-Tracker
+   git clone https://github.com/mahemudborgave/unsave.git
+   cd unsave
    ```
 
 2. Install dependencies:
@@ -216,4 +214,4 @@ Contributions are welcome! If you'd like to contribute:
 
 ---
 
-Built with ❤️ by [Samrath Reddy](https://www.linkedin.com/in/samrath-reddy/)
+Built with ❤️ by the unsave team
