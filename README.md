@@ -1,4 +1,4 @@
-# Day Code
+# Unsave
 
 A comprehensive web application that aggregates and tracks programming contest schedules from major competitive programming platforms, displays hackathons, provides tutorial videos, and helps you manage your coding tasks - all in one place.
 
@@ -25,7 +25,7 @@ A comprehensive web application that aggregates and tracks programming contest s
 
 ## 📋 Overview
 
-Day Code serves as a centralized hub for competitive programmers and developers to stay organized and informed about upcoming coding competitions and hackathons. The application fetches real-time contest data, displays relevant tutorial videos, and provides a robust task management system to help users plan their competitive programming journey effectively.
+Unsave serves as a centralized hub for competitive programmers and developers to stay organized and informed about upcoming coding competitions and hackathons. The application fetches real-time contest data, displays relevant tutorial videos, and provides a robust task management system to help users plan their competitive programming journey effectively.
 
 ## ✨ Features
 - **Coding Activiyt**: View activity from LeetCode & Github at one place
@@ -39,6 +39,9 @@ Day Code serves as a centralized hub for competitive programmers and developers 
 ## 🔗 Resources
 
 - **Repository**: [Checkout the code](https://github.com/mahemudborgave/unsave)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mahemud-borgave-b01762231/)
+- **GitHub**: [Follow me](https://github.com/mahemudborgave)
+- **Twitter**: [Follow me](https://x.com/Mahemud_009)
 
 ## 🚀 Getting Started
 

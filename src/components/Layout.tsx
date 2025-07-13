@@ -37,7 +37,7 @@ function LayoutComponent({ children }: LayoutProps) {
             </p>
           </div>
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} DayCode by <a href="https://www.linkedin.com/in/samrath-reddy/" className="underline">Samrath</a>
+            &copy; {new Date().getFullYear()} Unsave by <a href="https://www.linkedin.com/in/mahemud-borgave-b01762231/" className="underline">Mahemud</a>
           </p>
         </div>
       </footer>

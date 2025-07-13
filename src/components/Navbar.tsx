@@ -49,7 +49,7 @@ export default function Navbar() {
       <div className="flex h-16 items-center px-4 md:container">
         <div className="ml-0 md:ml-[-1rem] mr-4 md:mr-10">
           <NavLink to="/" className="flex items-center space-x-2">
-            <span className="font-bold text-2xl md:text-3xl">DayCode</span>
+            <span className="font-bold text-2xl md:text-3xl">Unsave</span>
           </NavLink>
         </div>
         <div className="flex-1 hidden md:block">

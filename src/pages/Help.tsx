@@ -72,7 +72,7 @@ export default function Help() {
             }
           ],
           footer: {
-            text: "Sent from Day Code App"
+            text: "Sent from Unsave App"
           },
           timestamp: new Date().toISOString()
         }]
@@ -123,11 +123,11 @@ export default function Help() {
             <CardTitle>Get Help / Provide Feedback</CardTitle>
           </div>
           <CardDescription className="space-y-2">
-            <p>Hello! I'm Samrath, the developer of Day Code. If you have any questions, feedback, or need assistance with the app, please fill out the form below.</p>
+            <p>Hello! I'm Mahemud, the developer of Unsave. If you have any questions, feedback, or need assistance with the app, please fill out the form below.</p>
             <p className="flex flex-wrap items-center gap-4">
               Connect with me on:
               <a 
-                href="https://www.linkedin.com/in/samrath-reddy/" 
+                href="https://www.linkedin.com/in/mahemud-borgave-b01762231/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-blue-500 hover:text-blue-700 hover:underline inline-flex items-center"
@@ -140,7 +140,7 @@ export default function Help() {
               
               <span className="text-muted-foreground">|</span>
               <a 
-                href="https://samrathdev.vercel.app/" 
+                href="https://github.com/mahemudborgave" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-green-500 hover:text-green-700 hover:underline inline-flex items-center"
@@ -154,7 +154,7 @@ export default function Help() {
               <span className="text-muted-foreground">|</span>
               
               <a 
-                href="https://x.com/samrathghana" 
+                href="https://x.com/Mahemud_009" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-600 hover:underline inline-flex items-center"
